@@ -1,4 +1,4 @@
-These are reproductions of the C1541 Disk Drive PCB.
+These are reproductions of the C1581 Disk Drive PCB.
 The goal of this is to create enhanced PCBs which
 can be modified, ie: reduced area for mounting 
 inside a computer.
