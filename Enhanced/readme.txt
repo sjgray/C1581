@@ -12,3 +12,9 @@ Enhancements:
 - Optional Barrel Jack for 12V power.
 - Long pads for easier soldering.
 
+***************************************************
+** The schematic and PCB have NOT been verified! **
+** Use at own risk!                              **
+***************************************************
+
+Steve
