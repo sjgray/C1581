@@ -1,4 +1,4 @@
-This is a reproduction of the C1541 Disk Drive PCB.
+This is a reproduction of the C1581 Disk Drive PCB.
 The goal of this is to create an enhanced PCB which
 can be modified, ie: reduced area for mounting 
 inside a computer.
@@ -10,6 +10,7 @@ Enhancements:
 - Double-size ROM with select (Standard or JiffyDOW).
 - Optional header for 12V+5V internal power.
 - Optional Barrel Jack for 12V power.
+- FPC connector for Laptop PC Drive.
 - Long pads for easier soldering.
 
 ***************************************************
