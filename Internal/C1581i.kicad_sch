@@ -5056,7 +5056,7 @@
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid 8058f779-eb36-496d-8b92-b2372183b05c)
   )
-  (text "This is a reproduction of the C1541 Disk Drive PCB.\nThe goal of this is to create an enhanced PCB which\ncan be modified, ie: reduced area for mounting \ninside a computer.\n\nEnhancements:\n- Jumpers for 1581/Amiga or PC drive.\n- Jumpers for drive select 0 or 1.\n- SkinnyDIP RAM chip.\n- Double-size ROM with select (Standard or JiffyDOW).\n- Optional header for 12V+5V internal power.\n- Optional Barrel Jack for 12V power.\n- FPC connector for laptop PC drive.\n- Add Drive Enable jumper. Can connect an external switch.\n- Long pads for easier soldering.\n"
+  (text "This is a reproduction of the C1541 Disk Drive PCB.\nThe goal of this is to create an enhanced PCB which\ncan be modified, ie: reduced area for mounting \ninside a computer.\n\nEnhancements:\n- Jumpers for 1581/Amiga or PC drive.\n- Jumpers for drive select 0 or 1.\n- SkinnyDIP RAM chip.\n- Double-size ROM with select (Standard or JiffyDOS).\n- Optional header for 12V+5V internal power.\n- Optional Barrel Jack for 12V power.\n- FPC connector for laptop PC drive.\n- Add Drive Enable jumper. Can connect an external switch.\n- Long pads for easier soldering.\n"
     (at 15.875 262.9408 0)
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 8a1f91ca-3bdc-4d11-a776-fc78bd743599)
