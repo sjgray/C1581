@@ -1,3 +1,6 @@
+1581i - Internal Version - PROTO 2
+========================
+
 This is a reproduction of the C1581 Disk Drive PCB.
 The goal of this is to create an enhanced PCB which
 can be modified, ie: reduced area for mounting 
