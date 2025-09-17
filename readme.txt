@@ -1,7 +1,11 @@
+1581 ENHANCED PROJECT - Steve J. Gray
+=====================
+
 These are reproductions of the C1581 Disk Drive PCB.
 The goal of this is to create enhanced PCBs which
 can be modified, ie: reduced area for mounting 
-inside a computer.
+inside a computer, increased ROM capacity, power
+options, or laptop drive support, etc.
 
 Enhancements:
 - Jumpers for 1581/Amiga or PC drive.
@@ -33,8 +37,5 @@ the DIN connectors, and LED breakaway.
 ** The schematics and PCBs have NOT been verified! **
 ** Use at own risk!                                **
 *****************************************************
-
-I will be testing the internal version first and will
-release gerbers when it is verified working.
 
 Steve
