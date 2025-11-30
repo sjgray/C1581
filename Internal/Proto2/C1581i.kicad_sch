@@ -7,7 +7,7 @@
 	(title_block
 		(title "C1581i Disk Drive PCB")
 		(date "2025-09-16")
-		(rev "V1.1")
+		(rev "V2")
 		(company "Steve J. Gray")
 	)
 	(lib_symbols
@@ -11999,7 +11999,7 @@
 		)
 		(uuid "05a7f158-0b17-4aff-857e-4ca86c8eee3e")
 	)
-	(text "UPDATED: 2024-02-14"
+	(text "UPDATED: 2025-11-29"
 		(exclude_from_sim no)
 		(at 13.208 284.226 0)
 		(effects
@@ -12036,17 +12036,6 @@
 			(justify right bottom)
 		)
 		(uuid "0a55f99f-5592-4ea1-8543-1bf7b6910fcd")
-	)
-	(text "PROTO Sent to JLCPCB 2024-02-14"
-		(exclude_from_sim no)
-		(at 13.716 278.13 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-			(justify left bottom)
-		)
-		(uuid "136133b3-1aec-4919-8c33-daed1a4680b4")
 	)
 	(text "Reduced Wr\nSpare\nSelect 3\nIndex\nSelect0\nSelect1\nSelect2\nMotorEn\nDirection\nStep\nWriteData\nWriteGate\nTrack00\nWriteProt\nReadData\nSideSelect\nDiskChg\n"
 		(exclude_from_sim no)
@@ -25610,7 +25599,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 32.9946 60.0202 0)
 			(effects
 				(font
@@ -26210,7 +26199,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 377.0122 179.4002 0)
 			(effects
 				(font
@@ -26487,7 +26476,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 101.6 181.864 0)
 			(effects
 				(font
@@ -27463,7 +27452,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 376.8344 148.3614 0)
 			(effects
 				(font
@@ -32845,7 +32834,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 63.5 171.704 0)
 			(effects
 				(font
@@ -33076,7 +33065,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 376.2502 136.1186 0)
 			(effects
 				(font
@@ -33623,7 +33612,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 53.34 162.306 0)
 			(effects
 				(font
@@ -33926,7 +33915,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 104.14 171.704 0)
 			(effects
 				(font
@@ -33995,7 +33984,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 32.9946 53.6702 0)
 			(effects
 				(font
@@ -35180,7 +35169,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 377.1392 163.6522 0)
 			(effects
 				(font

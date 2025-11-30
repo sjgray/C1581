@@ -626,7 +626,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 6.35 2.72 90)
 			(layer "F.Fab")
 			(uuid "b958ac96-7578-4c64-9229-5b20d834b2da")
@@ -1369,7 +1369,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 6.35 2.72 90)
 			(layer "F.Fab")
 			(uuid "d7a5f72e-3b7e-407a-b489-3d6b03000c80")
@@ -2921,7 +2921,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 0 7.41 90)
 			(layer "F.Fab")
 			(uuid "ed54915f-8169-452d-ae3c-4d2b9638387e")
@@ -4168,7 +4168,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 0 7.41 90)
 			(layer "F.Fab")
 			(uuid "5362907f-fcbd-4659-8f21-fe1c89c08e45")
@@ -6493,7 +6493,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 0 7.41 90)
 			(layer "F.Fab")
 			(uuid "c365afca-ad35-4c4f-9b7d-4836d0a0fe09")
@@ -6736,7 +6736,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 6.35 2.72 90)
 			(layer "F.Fab")
 			(uuid "f6dbf1fb-aa68-489d-b537-1e06880c8812")
@@ -8228,7 +8228,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 6.35 2.72 90)
 			(layer "F.Fab")
 			(uuid "a8441e63-59b1-4c26-8833-30f8df78b0dd")
@@ -11768,7 +11768,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 6.35 2.72 0)
 			(layer "F.Fab")
 			(uuid "7dd99038-2d52-40eb-aeb5-d706f7d790af")
@@ -13075,7 +13075,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 6.35 2.72 90)
 			(layer "F.Fab")
 			(uuid "2c51fd16-c18f-4e22-9da3-18101b22e085")
@@ -14381,7 +14381,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 0 7.41 90)
 			(layer "F.Fab")
 			(uuid "b1a3c322-99b4-4e05-a80b-f0d2c0dde80c")
@@ -16831,7 +16831,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm* SO14*")
-		(path "/af0f6b52-0ba6-43fe-8ca7-ea19cd99714c")
+		(path "/c03ff2f7-ff48-4344-8b81-5666691bcc0e")
 		(sheetname "/")
 		(sheetfile "C1581.kicad_sch")
 		(attr through_hole)
@@ -21836,7 +21836,7 @@
 			)
 		)
 		(property ki_fp_filters "R?Array?SIP*")
-		(path "/f1b03e36-e613-42a0-ae5e-e66186d6210c")
+		(path "/53d19243-daeb-45f7-ab36-9f67afae403a")
 		(sheetname "/")
 		(sheetfile "C1581.kicad_sch")
 		(attr through_hole)

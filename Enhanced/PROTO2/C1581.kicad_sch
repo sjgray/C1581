@@ -12246,7 +12246,7 @@
 		)
 		(uuid "05a7f158-0b17-4aff-857e-4ca86c8eee3e")
 	)
-	(text "UPDATED: 2025-09-17"
+	(text "UPDATED: 2025-11-29"
 		(exclude_from_sim no)
 		(at 13.462 283.972 0)
 		(effects
@@ -26167,7 +26167,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 55.753 61.6966 0)
 			(effects
 				(font
@@ -26627,7 +26627,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 377.0122 179.4002 0)
 			(effects
 				(font
@@ -26904,7 +26904,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 100.838 190.5 0)
 			(effects
 				(font
@@ -27777,7 +27777,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 377.5202 132.0292 0)
 			(effects
 				(font
@@ -33369,7 +33369,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 62.738 180.34 0)
 			(effects
 				(font
@@ -33600,7 +33600,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 377.5202 147.7772 0)
 			(effects
 				(font
@@ -34282,7 +34282,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 52.578 170.942 0)
 			(effects
 				(font
@@ -34519,7 +34519,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 103.378 180.34 0)
 			(effects
 				(font
@@ -34588,7 +34588,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "FB"
 			(at 55.753 55.3466 0)
 			(effects
 				(font
@@ -35909,7 +35909,7 @@
 				)
 			)
 		)
-		(property "Value" "EMI"
+		(property "Value" "100pf"
 			(at 377.1392 163.6522 0)
 			(effects
 				(font
