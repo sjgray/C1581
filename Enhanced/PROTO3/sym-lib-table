@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "cbm-steve")(type "KiCad")(uri "//NAS/data/Personal/Steve/MyProjects/_KiCadProjects/_SteveLib/cbm-steve.kicad_sym")(options "")(descr ""))
+  (lib (name "c64c-symbol-library")(type "KiCad")(uri "//NAS/data/Personal/Steve/MyProjects/_KiCadProjects/C64SG/C64SG-v1/c64c-symbol-library.kicad_sym")(options "")(descr ""))
+)

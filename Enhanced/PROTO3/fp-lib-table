@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "c64c-library")(type "KiCad")(uri "//NAS/data/Personal/Steve/MyProjects/_KiCadProjects/C64SG/C64SG-v1/c64c-library.pretty")(options "")(descr ""))
+  (lib (name "LittleSixteen")(type "KiCad")(uri "//NAS/data/Personal/Steve/MyProjects/_KiCadProjects/C64SG/C64SG-v1/LittleSixteen.pretty")(options "")(descr ""))
+  (lib (name "SJG-Footprints")(type "KiCad")(uri "//NAS/data/Personal/Steve/MyProjects/_KiCadProjects/_SteveLib/SJG-Footprints.pretty")(options "")(descr ""))
+)
